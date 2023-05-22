@@ -26,4 +26,4 @@ https://github.com/mubarak24/Internet-Retailer
 
 ## Screenshot/Video
 
-![Link to Video](https://drive.google.com/file/d/1rpES5Am_j0s9kr1DRK6odoywObUSFbMe/view?usp=share_link) 
+![Link to Video](https://drive.google.com/file/d/12iIqKJ3iF_r994LBzuzVN0TFOPGSPtjS/view?usp=share_link) 
